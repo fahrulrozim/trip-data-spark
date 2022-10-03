@@ -9,5 +9,13 @@ Pre-requisite:
 
 Note : if you haven't installed pyspark yet, you can check [my repo](https://github.com/fahrulrozim/pyspark).
 
+Question that is solved:
+1. How many taxi trips were there on February 15?
+2. Find the longest trip for each day ?
+3. Find Top 5 Most frequent `dispatching_base_num` ?
+4. Find Top 5 Most common location pairs (`PUlocationID` and `DOlocationID`) ?
+5. Write all of the result to BigQuery table (additional - point plus)
+
 How to run:
+
 Open `.ipynb` file using `Jupyter Notebook` and you'll see the result while running the code.
